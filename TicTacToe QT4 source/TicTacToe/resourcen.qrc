@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="translations">
+    <file>Uebersetzung_de.qm</file>
+  </qresource>
+  <qresource prefix="ki">
+    <file>HelferPattKI.txt</file>
+    <file>HelferSpieler01KI.txt</file>
+    <file>HelferSpieler02KI.txt</file>
+  </qresource>
+</RCC>
